@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Gmail for FluentCRM 1.0.0\\n"
-"Report-Msgid-Bugs-To: https://github.com/GladdingDigital/gmail-for-fluentcrm/issues\\n"
+"Report-Msgid-Bugs-To: https://github.com/thomasgladding/gmail-for-fluentcrm/issues\\n"
 "POT-Creation-Date: 2026-02-16 00:00+0000\\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\\n"
